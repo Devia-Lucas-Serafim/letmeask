@@ -4,12 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/.firebase
-/.github
-/build
-/.firebaserc
-/database.rule.json
-/firebase.json
+
 
 
 # testing
@@ -17,6 +12,12 @@
 
 # production
 /build
+/.firebase
+/.github
+/build
+/.firebaserc
+/database.rule.json
+/firebase.json
 
 # misc
 .DS_Store
